@@ -1,8 +1,8 @@
 # 25-addEventListener
 
-Key Concepts:
+## Key Concepts:
 
-Event Capture
-Propagation
-Bubbling
-Once
+	Event Capture
+	Propagation
+	Bubbling
+	Once
